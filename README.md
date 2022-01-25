@@ -33,6 +33,6 @@
 ![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)
 
 ## Social
-[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)](www.twitter.com/Varun__Tiwari)
-[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=flat&logo=linkedin)](www.linkedin.com/in/varun-tiwari-v26t)
+[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)](https://www.twitter.com/Varun__Tiwari)
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-tiwari-v26t)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/varuuntiwari)
