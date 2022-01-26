@@ -18,6 +18,7 @@
 - [ ] Golang
 - [ ] Reinforcement learning for Snake game
 - [ ] Node.js
+- [ ] Flutter framework
 - [ ] Advanced JavaScript concepts
 
 ## Languages
