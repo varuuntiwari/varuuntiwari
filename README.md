@@ -14,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuuntiwari&hide=php&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" alt="Top languages">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varuuntiwari&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
+
 ## Currently working on
 - [ ] Golang
 - [ ] Reinforcement learning for Snake game
