@@ -40,3 +40,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)](https://www.twitter.com/Varun__Tiwari)
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-tiwari-v26t)
 [![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/varuuntiwari)
+
+## Other Stats
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/anonymous95.png)](https://tryhackme.com/p/anonymous95)
