@@ -7,7 +7,7 @@
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varuuntiwari&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&show_owner=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vauuntiwari&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&show_owner=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
