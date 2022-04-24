@@ -19,8 +19,8 @@
 </p>
 
 ## Currently working on
-- [ ] Golang
-- [ ] Reinforcement learning for Snake game
+- [x] Golang
+- [x] Reinforcement learning for Snake game
 - [ ] Node.js
 - [ ] Advanced JavaScript concepts
 
