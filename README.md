@@ -19,10 +19,10 @@
 </p>
 
 ## Currently working on
-- [x] Golang
-- [x] Reinforcement learning for Snake game
-- [ ] Node.js
-- [ ] Advanced JavaScript concepts
+- [ ] Multithreading in Go
+- [ ] API building with Go
+- [ ] Advanced data structures
+- [ ] Rust
 
 ## Languages
 ![C](https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=green)
