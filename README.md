@@ -1,1 +1,44 @@
-![Metrics](https://metrics.lecoq.io/varuuntiwari?template=classic&base.hireable=true&leetcode=1&isocalendar=1&languages=1&introduction=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&leetcode=false&leetcode.user=varuuntiwari&leetcode.sections=solved&leetcode.limit.skills=5&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta&config.octicon=true&config.padding=5%2C%208%20%2B%2010%25)
+### Hi there 👋
+
+<p align="center">
+  <img src="assets/banner.jpg" alt="Banner">
+</p>
+
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varuuntiwari&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&show_owner=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuuntiwari&hide=php&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=varuuntiwari&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
+
+## Currently working on
+- [ ] Networking with Go
+- [ ] Building apps for Tizen OS
+- [ ] Tools for communicating with Tor network
+
+## Languages
+![C](https://img.shields.io/badge/C-grey?style=flat-square&logo=c&logoColor=green)
+![C++](https://img.shields.io/badge/C%2B%2B-grey?style=flat-square&logo=C%2B%2B&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-grey?style=flat-square&logo=java&logoColor=red)
+![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=violet)
+![Ruby](https://img.shields.io/badge/Ruby-grey?style=flat-square&logo=ruby&logoColor=maroon)
+![HTML5](https://img.shields.io/badge/HTML5-grey?style=flat-square&logo=html5&logoColor=default)
+![CSS3](https://img.shields.io/badge/CSS3-grey?style=flat-square&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-grey?style=flat-square&logo=php&logoColor=green)
+![Golang](https://img.shields.io/badge/Golang-grey?style=flat-square&logo=go)
+
+## Social
+[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter)](https://www.twitter.com/varuuntiwari)
+[![Linkedin](https://img.shields.io/badge/Linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/varun-tiwari-v26t)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/varuuntiwari)
+
+## Other Stats
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/anonymous95.png)](https://tryhackme.com/p/anonymous95)
